@@ -13,9 +13,12 @@ Please cite this paper if you use any material in this repository.
 
 - Python 3.x (3.7.4) with the following modules.
   - Numpy (1.17.2)
+  
   - Pandas (0.25.1)
+  
   - Argparse (1.4.0)
-  Our scripts were tested on the versions in parentheses, so we do not guarantee that it will work on different versions.
+  
+    Our scripts were tested on the versions in parentheses, so we do not guarantee that it will work on different versions.
 - R
 - DISH [1]
 - GCTA-COJO [2]
