@@ -14,7 +14,6 @@ Please cite this paper if you use any material in this repository.
 - Python 3.x (3.7.4) with the following modules.
   - Numpy (1.17.2)
   - Pandas (0.25.1)
-  - Scipy (1.3.1)
   - Argparse (1.4.0)
   Our scripts were tested on the versions in parentheses, so we do not guarantee that it will work on different versions.
 - R
@@ -106,7 +105,7 @@ $ python ss_conditional_analysis.py --file-list FILE_LIST.txt --ref-list REF_LIS
 
 Peform sample size-b
 
-## Reference
+## References
 
 [1] Lim J, Bae S-C, Kim K. Understanding HLA associations from SNP summary association statistics. Sci. Rep. 2019;9(1):1337.
 
