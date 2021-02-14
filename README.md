@@ -1,5 +1,5 @@
-# Trans-ethnic fine-mapping of the major histocompatibility complex region using GWAS summary statistics
-This repository is a storage of source codes used in our study of trans-ethnic fine-mapping of MHC region on Parkinson's disease risk.
+# Trans-ethnic fine-mapping of the MHC region using GWAS summary statistics
+This repository is a storage of source codes used in our study of trans-ethnic MHC fine-mapping on Parkinson's disease risk.
 
 ## Publication/Citation
 
