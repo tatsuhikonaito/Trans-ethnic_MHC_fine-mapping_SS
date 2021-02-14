@@ -11,11 +11,12 @@ Please cite this paper if you use any material in this repository.
 
 ## Requirements
 
-- Python 3.x (3.7.4) with the following modules (our scripts were tested on the versions in parentheses, so we do not guarantee that it will work on different versions.)
+- Python 3.x (3.7.4) with the following modules.
   - Numpy (1.17.2)
   - Pandas (0.25.1)
   - Scipy (1.3.1)
   - Argparse (1.4.0)
+  Our scripts were tested on the versions in parentheses, so we do not guarantee that it will work on different versions.
 - R
 - DISH [1]
 - GCTA-COJO [2]
@@ -25,8 +26,8 @@ Please cite this paper if you use any material in this repository.
 Just clone this repository as folllows.
 
 ```
-git clone https://github.com/tatsuhikonaito/DEEP-HLA
-cd ./DEEP-HLA
+git clone https://github.com/tatsuhikonaito/Trans-ethnic_MHC_finemapping_SS
+cd ./Trans-ethnic_MHC_finemapping_SS
 ```
 
 ## Process
