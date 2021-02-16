@@ -124,7 +124,7 @@ $ python ss_conditional_analysis.py --dishfile-list DISHFILE_LIST.txt --ref-list
   AA_DRB1_13_32660109_R
   AA_DRB1_13_32660109_H
 
-**Outputs**
+#### Outputs
 
 - GCTA-COJO output files
 
@@ -156,7 +156,7 @@ $ python cojo_to_dish.py --cojofile-list COJOFILE_LIST.txt --ref-list REF_LIST.t
 
   Described above.
 
-**Outputs**
+#### Outputs
 
 - DISH output files
 
