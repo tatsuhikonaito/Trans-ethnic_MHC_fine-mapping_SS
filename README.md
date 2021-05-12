@@ -5,7 +5,7 @@ This repository is a storage of source codes used in our study of trans-ethnic M
 
 The study is described in the following paper. 
 
-- N.A.
+- Naito, T. et al. Trans‐Ethnic Fine‐Mapping of the Major Histocompatibility Complex Region Linked to Parkinson's Disease. Mov. Disord. (2021). [doi.org/10.1002/mds.28583](https://doi.org/10.1002/mds.28583)
 
 Please cite this paper if you use any material in this repository.
 
